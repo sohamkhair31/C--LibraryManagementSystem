@@ -31,7 +31,7 @@ If you'd like to contribute to Project Title, here are some guidelines:
 6. Commit your changes.
 7. Push your changes to your forked repository.
 8. Submit a pull request.
-
+ 
 
 ## **Contact**
 
