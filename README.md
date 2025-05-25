@@ -19,16 +19,6 @@ To install Project Title, follow these steps:
 4. Build the project: **`npm run build`**
 5. Start the project: **`npm start`**
 
-## **Usage**
-
-To use Project Title, follow these steps:
-
-1. Open the project in your favorite code editor.
-2. Modify the source code to fit your needs.
-3. Build the project: **`npm run build`**
-4. Start the project: **`npm start`**
-5. Use the project as desired.
-
 ## **Contributing**
 
 If you'd like to contribute to Project Title, here are some guidelines:
@@ -51,4 +41,4 @@ If you have any questions or comments about Project Title, please contact **khai
 This Project may Help you to Understand Basic Concepts of C++ which includes looping Statements, Branching Statements,Message box and Also File Handling.
 
 ## Build With
-* [![C++]]
+* [![C++][C++]][C++-url]
